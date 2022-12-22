@@ -1,0 +1,23 @@
+<component name="libraryTable">
+  <library name="io.swagger.core.v3" type="repository">
+    <properties maven-id="io.swagger.core.v3:swagger-core:2.2.5" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/swagger-core-2.2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jakarta.xml.bind-api-2.3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jakarta.activation-api-1.2.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-lang3-3.12.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/slf4j-api-1.7.35.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-annotations-2.13.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-databind-2.13.4.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-core-2.13.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-dataformat-yaml-2.13.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jackson-datatype-jsr310-2.13.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/swagger-annotations-2.2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/snakeyaml-1.33.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/swagger-models-2.2.5.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/jakarta.validation-api-2.0.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
